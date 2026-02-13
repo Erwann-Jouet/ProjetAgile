@@ -1,48 +1,48 @@
 # ProjetAgile 🏠
 
-> **📚 Projet académique en cours de développement**
+> **📚 Academic project in development**
 
-Application d'analyse et de visualisation des statistiques de transactions immobilières en France utilisant les données ouvertes.
+Application for analyzing and visualizing real estate transaction statistics in France using open data.
 
 ## 📋 Description
 
-Ce projet académique vise à développer une application permettant d'analyser et de visualiser les statistiques des transactions immobilières en France à partir de données Open Data. L'application permet aux utilisateurs de sélectionner différents niveaux de granularité (villes, départements ou régions) et des critères spécifiques pour générer des insights statistiques pertinents.
+This academic project aims to develop an application for analyzing and visualizing real estate transaction statistics in France based on Open Data. The application allows users to select different levels of granularity (cities, departments, or regions) and specific criteria to generate relevant statistical insights.
 
-## 🎓 Contexte académique
+## 🎓 Academic Context
 
-Ce projet est réalisé dans le cadre d'un cursus de formation et a pour objectif de mettre en pratique les méthodologies agiles ainsi que les compétences en développement logiciel.
+This project is carried out as part of an educational curriculum and aims to put agile methodologies and software development skills into practice.
 
-## 🎯 Objectifs
+## 🎯 Objectives
 
-- **Analyse multi-niveaux** : Exploration des données au niveau des villes, départements et régions
-- **Visualisation interactive** : Représentation graphique des tendances du marché immobilier
-- **Critères personnalisables** : Filtrage par type de bien, période, prix, surface, etc.
-- **Insights statistiques** : Calculs de moyennes, médianes, évolutions temporelles
+- **Multi-level analysis**: Data exploration at city, department, and region levels
+- **Interactive visualization**: Graphical representation of real estate market trends
+- **Customizable criteria**: Filtering by property type, period, price, surface area, etc.
+- **Statistical insights**: Calculations of averages, medians, temporal trends
 
-## 🚀 Fonctionnalités
+## 🚀 Features
 
-- [ ] Sélection du niveau géographique (ville, département, région)
-- [ ] Filtrage par critères multiples
-- [ ] Génération de graphiques et statistiques
-- [ ] Export des données analysées
-- [ ] Interface utilisateur intuitive
+- [ ] Geographic level selection (city, department, region)
+- [ ] Multiple criteria filtering
+- [ ] Chart and statistics generation
+- [ ] Analyzed data export
+- [ ] Intuitive user interface
 
-## 📊 Sources de données
+## 📊 Data Sources
 
-Les données utilisées proviennent des sources Open Data françaises relatives aux transactions immobilières.
+The data used comes from French Open Data sources related to real estate transactions.
 
 ## 🤝 Contribution
 
-Ce projet étant académique, les contributions externes ne sont pas acceptées pour le moment.
+As this is an academic project, external contributions are not accepted at this time.
 
-## 👥 Équipe
+## 👥 Team
 
-Ce projet est réalisé par une équipe de **7 étudiants**.
+This project is carried out by a team of **7 students**.
 
-## 📅 Statut du projet
+## 📅 Project Status
 
-🚧 **Projet en cours de développement** - Les fonctionnalités sont progressivement ajoutées dans le cadre du programme académique.
+🚧 **Project in development** - Features are progressively being added as part of the academic program.
 
 ---
 
-_Ce projet est réalisé à des fins pédagogiques._
+_This project is carried out for educational purposes._
