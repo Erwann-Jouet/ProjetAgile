@@ -35,10 +35,9 @@ Les données utilisées proviennent des sources Open Data françaises relatives 
 
 Ce projet étant académique, les contributions externes ne sont pas acceptées pour le moment.
 
-## 👤 Auteur
+## 👥 Équipe
 
-**Erwann Jouet**
-- GitHub: [@Erwann-Jouet](https://github.com/Erwann-Jouet)
+Ce projet est réalisé par une équipe de **7 étudiants**.
 
 ## 📅 Statut du projet
 
@@ -46,4 +45,4 @@ Ce projet étant académique, les contributions externes ne sont pas acceptées 
 
 ---
 
-_Ce projet est réalisé à des fins pédagogiques._
+_Ce projet est réalis�� à des fins pédagogiques._
