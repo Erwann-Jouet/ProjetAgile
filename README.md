@@ -45,4 +45,4 @@ Ce projet est réalisé par une équipe de **7 étudiants**.
 
 ---
 
-_Ce projet est réalis�� à des fins pédagogiques._
+_Ce projet est réalisé à des fins pédagogiques._
